@@ -19,7 +19,7 @@ export default function Navigation() {
         </li>
         <li>
           {" "}
-          <Link to="/work">Work</Link>
+          <Link to="/coding">Coding</Link>
         </li>
         <li>
           <Link to="/about">About</Link>

@@ -17,28 +17,28 @@ export default function services() {
   return (
     <MDBCard>
       <MDBCardImage src={image} alt='...' position='top' 
-    width="100" height="500" />
+    width="100" height="600" />
       <MDBCardBody>
         <MDBCardText>
-          A long time ago in   <em> Llandudno</em>
+          A long time ago in   <em> Llandudno</em> in 35mm
         </MDBCardText>
       </MDBCardBody>
-      <MDBCardImage src= {image2} alt='...' position='top'    width="100" height="500" />
+      <MDBCardImage src= {image2} alt='...' position='top'    width="100" height="600" />
       <MDBCardBody>
         <MDBCardText>
-        A long time ago in vol 2  <em> Llandudno</em>
+        A long time ago in vol 2  <em> Llandudno</em> in 35mm
         </MDBCardText>
       </MDBCardBody>
-      <MDBCardImage src={image3} alt='...' position='top'   width="100" height="500" />
+      <MDBCardImage src={image3} alt='...' position='top'   width="100" height="600" />
       <MDBCardBody>
         <MDBCardText>
-         Kalamata, Greece
+         Kalamata, Greece in 35mm
         </MDBCardText>
       </MDBCardBody>
-      <MDBCardImage src={image4} alt='...' position='top'    width="100" height="500"/>
+      <MDBCardImage src={image4} alt='...' position='top'    width="100" height="600"/>
       <MDBCardBody>
         <MDBCardText>
-          
+        Kalamata, Greece vol 2 in 35mm
         </MDBCardText>
       </MDBCardBody>
     </MDBCard>

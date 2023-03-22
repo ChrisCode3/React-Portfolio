@@ -13,7 +13,7 @@ import image3 from "./photographyPorfolio/15029_001-036.jpg";
 import image4 from "./photographyPorfolio/15029_002-009.jpg";
 
 
-export default function services() {
+export default function Photography() {
   return (
     <MDBCard>
       <MDBCardImage src={image} alt='...' position='top' 

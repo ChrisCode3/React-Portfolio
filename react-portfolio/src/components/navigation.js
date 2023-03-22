@@ -5,9 +5,9 @@ export default function Navigation() {
   const [open, setOpen] = useState(false);
   return (
     <nav className="nav">
-      <a href="">
+      
         Christos Laios
-      </a>
+      
       <ul className={open ? "nav-links active" : "nav-links"}>
         <li>
           {" "}
@@ -15,7 +15,7 @@ export default function Navigation() {
         </li>
         <li>
           {" "}
-          <Link to="/services">Photography</Link>
+          <Link to="/Photography">Photography</Link>
         </li>
         <li>
           {" "}
@@ -28,13 +28,6 @@ export default function Navigation() {
           <Link to="/contact">Contact</Link>
         </li>
 
-        <Link to="/singUp">
-          {" "}
-          <button className="btn">Sing Up</button>
-        </Link>
-        <Link to="/logIn">
-          <button className="btn">Login</button>
-        </Link>
       </ul>
       <i
         className={open ? "fas fa-bars close" : "fas fa-bars open"}

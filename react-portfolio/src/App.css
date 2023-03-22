@@ -1,18 +1,17 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&display=swap");
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+
+
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
 }
 
 body {
-  /* background: linear-gradient(90deg, #1c19e4, #b81edb);
-   */
+ 
   background: rgb(47, 145, 104);
   background: radial-gradient(
     circle,
     rgb(10, 110, 52) 21%,
-    rgba(172, 54, 31, 1) 50%,
+    rgb(18, 214, 34) 50%,
     rgb(6, 31, 22) 91%
   );
   font-family: "Poppins", sans-serif;
@@ -114,12 +113,12 @@ a:hover {
   font-size: 2rem;
   z-index: 2;
 }
-/* the close class will hide the bars  */
+
 .nav .fa-bars.close {
   display: none;
 }
 
-/* the open class will show the X  */
+
 
 .nav .fa-times.open {
   position: relative;
@@ -130,7 +129,7 @@ a:hover {
   z-index: 2;
 }
 
-.container {
+/* .container {
   max-width: 1440px;
   height: 80vh;
   margin: auto;
@@ -139,7 +138,7 @@ a:hover {
   background: rgba(255, 255, 255, 0.1);
   box-shadow: 10px 10px 25px 5px #111;
   animation: fadeIn 4s ease-out;
-}
+} */
 
 h2 {
   font-size: 4rem;

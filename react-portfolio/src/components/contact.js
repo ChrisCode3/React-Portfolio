@@ -14,8 +14,14 @@ export default function Contact() {
           <a href="https://www.linkedin.com/in/christos-laios/">
           Christos Laios , linkedin
           </a>
+         
         </li>
+        
+    
       </ul>
+      If you really want to get in contact with me.
+      <br></br>
+        Just drop me a message on linkedin :D
     </section>
   );
 }

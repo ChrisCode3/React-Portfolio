@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import image6 from "./photographyPorfolio/000010890004.jpg";
+
+
 export default function Header() {
   return (
     <header>

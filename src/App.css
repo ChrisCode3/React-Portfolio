@@ -129,16 +129,7 @@ a:hover {
   z-index: 2;
 }
 
-/* .container {
-  max-width: 1440px;
-  height: 80vh;
-  margin: auto;
-  margin-top: 10vh;
-  border-radius: 10px;
-  background: rgba(255, 255, 255, 0.1);
-  box-shadow: 10px 10px 25px 5px #111;
-  animation: fadeIn 4s ease-out;
-} */
+
 
 h2 {
   font-size: 4rem;
@@ -211,8 +202,6 @@ section {
   }
   
 }
-
-
 
 
 .headshot {

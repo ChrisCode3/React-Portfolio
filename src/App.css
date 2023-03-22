@@ -165,15 +165,7 @@ input {
   outline: none;
   border: none;
 }
-@keyframes fadeIn {
-  0% {
-    box-shadow: none;
-    background: rgba(255, 255, 255, 0.1);
-    color: rgba(255, 255, 255, 0.1);
-  }
-  100% {
-  }
-}
+
 
 header,
 section {

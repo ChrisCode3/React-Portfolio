@@ -231,6 +231,9 @@ position: relative;
 size: 100cm;
 }
 
+.btn {
+  vertical-align: middle;
+}
 
 
 

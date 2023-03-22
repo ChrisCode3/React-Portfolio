@@ -44,7 +44,7 @@ export default function Coding() {
       <MDBCardImage src={image3} alt='...' position='top' width="100" height="500" />
       <MDBCardBody>
         <MDBCardText>
-
+Readme Generator
           <br>
           </br>
           No deployed application as it runs from the terminal
@@ -56,13 +56,25 @@ export default function Coding() {
       <MDBCardImage src={image4} alt='...' position='top' width="100" height="500" />
       <MDBCardBody>
         <MDBCardText>
-          hello
+       Our group project an interactive Movie Quiz
+          <br>
+          </br>
+          <a href='https://bowseruk.github.io/screen-test/' >Deployed Application</a>
+          <br>
+          </br>
+          <a href='https://github.com/ChrisCode3/screen-test' >GitHub Link</a>
         </MDBCardText>
       </MDBCardBody>
       <MDBCardImage src={image5} alt='...' position='top' width="" height="500" />
       <MDBCardBody>
         <MDBCardText>
-          Last
+       My first Portfolio
+      <br>
+      </br>
+      <a href='https://chriscode3.github.io/challenge2/' >Deployed Application</a>
+      <br>
+      </br>
+      <a href='https://github.com/ChrisCode3/challenge2' >GitHub Link</a>
         </MDBCardText>
       </MDBCardBody>
     </MDBCard>

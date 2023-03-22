@@ -5,23 +5,27 @@ import image6 from "./photographyPorfolio/000010890004.jpg";
 export default function Header() {
   return (
     <header>
-      <h1>Hi,</h1>
-      <br></br>
+      <h1>Hi,  <em>I'm</em>   Chris </h1>
+      <Link to="/about">
+        <button className="btn" padding ="100px" >  want to learn more ? </button>
+      </Link>
       
-      <em>i'm</em>
       <br></br>
-      <br></br>
-      <h2> Chris </h2>
-      <div className="search">
-       
-       <img id="headshot"
-         src = {image6} width={500} height={500}
+      <img id="headshot"
+         src = {image6} width={900} height={370} 
+
+         
          alt="search"
        />
-     </div>
-      <Link to="/about">
-        <button className="btn"> Read more..</button>
-      </Link>
+      
+      
+      
+ 
+      <br></br>
+      <br></br>
+
+      
+      
     </header>
   );
 }

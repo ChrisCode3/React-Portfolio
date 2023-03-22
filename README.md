@@ -28,6 +28,7 @@ I especially like the photography section as you can see the images quite well
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Disclaimer
-To complete this project i went through an incredible amount of guides and youtube videos to try and understand React.
 
-Also a million thanks to my instructor and my teaching assistance for their amazin assistance in deploying the application.
+To complete this project i went through a large amount of guides and youtube videos to try and understand React and in particular how to work rout.
+
+Also a million thanks to my instructor and also my TA  for their amazing assistance in deploying the application.
